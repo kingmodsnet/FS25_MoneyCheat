@@ -1,7 +1,3 @@
--- TODO: add keys to up/down money amount to cheat
--- TODO: implement multiplayer farmId verifications (Not working on fs25: g_currentMission.player.farmId)
--- if g_currentMission.missionDynamicInfo.isMultiplayer and g_currentMission.player.farmId == FarmManager.SPECTATOR_FARM_ID then
-
 --
 -- MoneyCheat_KingMods
 --
