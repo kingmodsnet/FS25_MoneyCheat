@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="92">
     <author>KingMods</author>
-	<version>1.0.0.0</version>
+    <contributors>Kaymara</contributors>
+	<version>1.1.0.0</version>
 	<title>
         <en>Money Cheat (KingMods)</en>
 	</title>
     <description>
-		<en>Add €1,000,000 from your account by pressing CTRL+ALT+0.</en>
-        <fr>Ajoute 1 000 000 € depuis votre compte en appuyant sur CTRL+ALT+0.</fr>
-        <de>Fügen Sie 1.000.000 € von Ihrem Konto hinzu, indem Sie STRG+ALT+0 drücken.</de>
+        <en>Add €1,000,000 to your account by pressing CTRL+ALT+0 or withdraw €1,000,000 from your account by pressing CTRL+ALT+9.</en>
+        <fr>Ajoute 1 000 000 € à votre compte en appuyant sur CTRL+ALT+0 ou retire 1 000 000 € de votre compte en appuyant sur CTRL+ALT+9.</fr>
+        <de>Fügen Sie Ihrem Konto 1.000.000 € hinzu, indem Sie STRG+ALT+0 drücken, oder heben Sie 1.000.000 € von Ihrem Konto ab, indem Sie STRG+ALT+9 drücken.</de>
 	</description>
     <multiplayer supported="true" />
     <iconFilename>icon_moneyCheat_kingMods.dds</iconFilename>    
